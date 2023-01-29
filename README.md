@@ -2,6 +2,13 @@
 
 Link video: https://www.youtube.com/shorts/HTjjznXwInI (Stiu ca e short, nu am reusit sa il pun ca videoclip normal).
 
+# Task Requirements:
+1. Assemble line follower robot from given kit
+2. Implement calibration with automatic motor movement
+3. Follow a curved line (not exaggerated)
+4. Finish the line follower course
+5. Finish the line follower course in under 20 seconds with visible control (implementing P, D and maybe I)
+
 # Used Components:
 
 1. Arduino Uno
