@@ -2,6 +2,8 @@
 
 Link video: https://www.youtube.com/shorts/HTjjznXwInI (Stiu ca e short, nu am reusit sa il pun ca videoclip normal).
 
+# Team name: Confused Car
+
 # Task Requirements:
 1. Assemble line follower robot from given kit
 2. Implement calibration with automatic motor movement
